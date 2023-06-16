@@ -21,7 +21,7 @@ Before running application locally make sure you have created and set the conten
   npm run serve
   ```
 
-## In the application there CRUD api's please use the below CURLs to access those.
+## In the application only one functionality "GET" is there, please use the below CURLs to access that.
 
 Note: Change localhost to server ip if access from server
 
